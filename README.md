@@ -1,3 +1,5 @@
+![morn-guard-kit](assets/preview.png)
+
 # MornRain Guard Kit
 
 WordPress 请求防护与安全响应头工具集。零外部依赖，同时兼容 WordPress 环境与纯 PHP 环境。
